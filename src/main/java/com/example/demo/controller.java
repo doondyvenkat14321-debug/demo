@@ -32,6 +32,7 @@ userservice rss;
 		System.out.println(email); 
 		System.out.println(pasword);
 		System.out.println(mobile); 
+		System.out.println("yes"); 
 		
 		
 		 ModelAndView  mv = new  ModelAndView();
